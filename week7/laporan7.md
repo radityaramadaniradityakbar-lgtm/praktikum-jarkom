@@ -28,30 +28,30 @@
 
 # 2. Membuat File Program
 Di dalam folder, saya menambahkan 4 file
-  ![tampilan 4 file](../assets/image/4%20file.png)
+![tampilan 4 file](../assets/image/4%20file.png)
 
 # 3. Memasukkan Kode Program
 - a. TCP Server
-    ![tampilan kode program TCP Server](../assets/image/Kode%20Program%20TCP%20Server.png)
-    - Menerima koneksi dari client
-    - Mengubah pesan menjadi huruf besar (UPPERCASE)
-    - Mengirim kembali ke client
+![tampilan kode program TCP Server](../assets/image/Kode%20Program%20TCP%20Server.png)
+- Menerima koneksi dari client
+- Mengubah pesan menjadi huruf besar (UPPERCASE)
+- Mengirim kembali ke client
 
 - b. TCP Client
-    ![tampilan kode program TCP Client](../assets/image/kode%20program%20tcp_client.png)
-    - Mengirim pesan ke server
-    - Menerima balasan dari server
+![tampilan kode program TCP Client](../assets/image/kode%20program%20tcp_client.png)
+- Mengirim pesan ke server
+- Menerima balasan dari server
 
 - c. UDP Server
-    ![tampilan kode program UDP Server](../assets/image/Kode%20program%20UDP%20Server.png)
-    - Menerima pesan tanpa koneksi
-    - Mengubah pesan menjadi huruf besar
-    - Mengirim kembali ke client
+![tampilan kode program UDP Server](../assets/image/Kode%20program%20UDP%20Server.png)
+- Menerima pesan tanpa koneksi
+- Mengubah pesan menjadi huruf besar
+- Mengirim kembali ke client
 
 - d. UDP Client
-    ![tampilan kode program UDP Client](../assets/image/Kode%20program%20UDP%20Client.png)
-    - Mengirim pesan ke server menggunakan IP
-    - Menerima balasan dari server
+![tampilan kode program UDP Client](../assets/image/Kode%20program%20UDP%20Client.png)
+- Mengirim pesan ke server menggunakan IP
+- Menerima balasan dari server
 
 # 4. Mengecek IP Address
 Buka aplikasi Command Prompt (CMD)
@@ -63,36 +63,36 @@ Buka aplikasi Command Prompt (CMD)
   Menerima dan memproses pesan
   ![tampilan tcp_server](../assets/image/Kode%20Program%20TCP%20Server.png)
 
-  - Output pada Server
-    ![tampilan output pada Server TCP](../assets/image/Output%20pada%20Server.png)
+- Output pada Server
+  ![tampilan output pada Server TCP](../assets/image/Output%20pada%20Server.png)
 
 - Client
   Mengirim dan menerima pesan
   ![tampilan tcp_client](../assets/image/kode%20program%20tcp_client.png)
 
-    - Input dari Client
-      ![tampilan Input dari Client](../assets/image/Input%20dari%20Client.png)
+- Input dari Client
+  ![tampilan Input dari Client](../assets/image/Input%20dari%20Client.png)
 
-    - Output pada Client
-      ![tampilan Output dari Client](../assets/image/Output%20dari%20Client.png)
+- Output pada Client
+  ![tampilan Output dari Client](../assets/image/Output%20dari%20Client.png)
 
 # 6. Hasil Percobaan UDP
 - Server
   Menampilkan pesan dari Client
   ![tampilan udp_server](../assets/image/Kode%20program%20UDP%20Server.png)
 
-     - Output pada Server
-       ![tampilan output pada Server UDP](../assets/image/tampilan%20output%20pada%20udp_server.png)
+- Output pada Server
+  ![tampilan output pada Server UDP](../assets/image/tampilan%20output%20pada%20udp_server.png)
 
 - Client
   Menampilkan balasan dari Server
   ![tampilan udp_client](../assets/image/Kode%20program%20UDP%20Client.png)
 
-    - Input dari Client
-      ![tampilan input dari Client](../assets/image/tampilan%20input%20udp_client.png)
+- Input dari Client
+  ![tampilan input dari Client](../assets/image/tampilan%20input%20udp_client.png)
 
-    - Output pada Client
-      ![tampilan output dari Client](../assets/image/tampilan%20output%20udp_client.png)
+- Output pada Client
+  ![tampilan output dari Client](../assets/image/tampilan%20output%20udp_client.png)
 
 # 7. Hasil Analisis
 - TCP:
