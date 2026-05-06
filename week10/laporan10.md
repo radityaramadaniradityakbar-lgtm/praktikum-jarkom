@@ -154,7 +154,7 @@ ping 8.8.8.8 -l 2000
 ```
 - Filter ke wireshark
 ```bash
-icmp
+ip.flags.mf == 1 || ip.frag_offset > 0
 ```
 ![Tampilan Hasil ICMP,MTU,TTL](../assets/image/tampilan%20hasil%20icmp%20mtu%20ttl.png)
 
