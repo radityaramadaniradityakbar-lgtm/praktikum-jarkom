@@ -164,7 +164,7 @@ Pada gambar kedua paket Echo (ping) request yang dikirim dari komputer pengirim 
 Informasi paket yang diperoleh:
 
 | **Parameter**	     | **Nilai**    |
-|--------------------|--------------||
+|--------------------|--------------|
 | Source	         | 192.168.1.14 |
 | Destination	     | 143.89.209.9 |
 | Type	             | 8            |
