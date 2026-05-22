@@ -163,16 +163,16 @@ Pada gambar kedua paket Echo (ping) request yang dikirim dari komputer pengirim 
 
 Informasi paket yang diperoleh:
 
-**Parameter**	 **Nilai**
+**Parameter**	 | **Nilai**
 
-Source	         192.168.1.14
-Destination	     143.89.209.9
-Type	         8
-Code	         0
-Identifier	     0x0001
-Sequence Number	 3
-TTL	             128
-Data	         32 bytes
+Source	         | 192.168.1.14
+Destination	     | 143.89.209.9
+Type	         | 8
+Code	         | 0
+Identifier	     | 0x0001
+Sequence Number	 | 3
+TTL	             | 128
+Data	         | 32 bytes
 
 **Penjelasan:**
 
@@ -193,17 +193,17 @@ Pada gambar ketiga paket Echo (ping) reply yang dikirim oleh server tujuan sebag
 
 Informasi paket yang diperoleh:
 
-**Parameter**	 **Nilai***
+**Parameter**	 | **Nilai**
 
-Source	         143.89.209.9
-Destination	     192.168.1.14
-Type	         0
-Code             0
-Identifier	     0x0001
-Sequence Number	 3
-TTL	             44
-Response Time	 105.533 ms
-Data	         32 bytes
+Source	         | 143.89.209.9
+Destination	     | 192.168.1.14
+Type	         | 0
+Code             | 0
+Identifier	     | 0x0001
+Sequence Number	 | 3
+TTL	             | 44
+Response Time	 | 105.533 ms
+Data	         | 32 bytes
 
 **Penjelasan:**
 
@@ -266,16 +266,16 @@ Pada gambar kedua paket ICMP Echo Request yang dikirim oleh perangkat sumber men
 
 Informasi paket yang diperoleh:
 
-**Parameter**	 **Nilai**
+**Parameter**	 | **Nilai**
 
-Source	         192.168.1.14
-Destination  	 143.89.209.9
-Type	         8
-Code	         0
-Identifier	     0x0001
-Sequence Number	 13
-TTL	             1
-Data	         64 bytes
+Source	         | 192.168.1.14
+Destination  	 |143.89.209.9
+Type	         | 8
+Code	         | 0
+Identifier	     | 0x0001
+Sequence Number	 | 13
+TTL	             | 1
+Data	         | 64 bytes
 
 **Penjelasan:**
 
@@ -296,13 +296,13 @@ Pada gambar ketiga paket balasan ICMP Time Exceeded yang dikirim oleh router.
 
 Informasi paket yang diperoleh:
 
-**Parameter**	**Nilai**
+**Parameter**	| **Nilai**
 
-Source	        192.168.1.1
-Destination	    192.168.1.14
-Type	        11
-Code	        0
-Keterangan	    Time to Live Exceeded in Transit
+Source	        | 192.168.1.1
+Destination	    | 192.168.1.14
+Type	        | 11
+Code	        | 0
+Keterangan	    | Time to Live Exceeded in Transit
 
 **Penjelasan:**
 
