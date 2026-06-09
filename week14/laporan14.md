@@ -186,13 +186,14 @@ Gambar 4. Detail Beacon Frame
 
 Berdasarkan hasil analisis salah satu Beacon Frame diperoleh informasi sebagai berikut:
 
-Parameter| Nilai
-SSID| 30 Munroe St
-Channel| 6
-Frequency| 2437 MHz
-Data Rate| 1.0 Mb/s
-Antenna Signal| -32 dBm
-Antenna Noise| -100 dBm
+|Parameter     | Nilai        |
+|--------------|--------------|
+|SSID          | 30 Munroe St |
+|Channel       | 6            |
+|Frequency     | 2437 MHz     |
+|Data Rate     | 1.0 Mb/s     |
+|Antenna Signal| -32 dBm      |
+|Antenna Noise | -100 dBm     |
 
 Selain itu, pada bagian Tagged Parameters diperoleh informasi:
 
@@ -356,9 +357,10 @@ Filter tersebut digunakan untuk menampilkan paket Association Response yang diki
 
 Berdasarkan hasil pengamatan pada Frame 2166 diperoleh informasi:
 
-Parameter| Nilai
-Status Code| Successful (0x0000)
-Association ID| 0x0005
+|Parameter   | Nilai      |        |
+|------------|------------|--------|
+|tatus Code  | Successful |(0x0000)|
+|Association | ID         | 0x0005 |
 
 Analisis
 

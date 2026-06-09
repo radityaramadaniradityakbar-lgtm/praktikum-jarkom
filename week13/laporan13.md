@@ -37,10 +37,11 @@ Frame Ethernet terdiri dari beberapa bagian utama, yaitu:
 
 EtherType digunakan untuk menunjukkan jenis protokol yang dibawa oleh frame Ethernet.
 
-EtherType| Protokol
-0x0800| IPv4
-0x0806| ARP
-0x86DD| IPv6
+|EtherType | Protokol |
+|----------|----------|
+|0x0800    | IPv4     |
+|0x0806    | ARP      |
+|0x86DD    | IPv6     |
 
 Ethernet menjadi salah satu teknologi jaringan yang paling banyak digunakan karena memiliki kecepatan tinggi, biaya implementasi yang relatif rendah, serta mudah dikembangkan sesuai kebutuhan jaringan.
 
@@ -232,15 +233,16 @@ Gambar 6. Analisis Paket ARP Request
 
 Berdasarkan hasil pengamatan diperoleh informasi sebagai berikut:
 
-Parameter| Nilai
-Protocol| ARP
-Opcode| Request (1)
-Sender IP Address| 10.106.84.59
-Sender MAC Address| 70:08:94:ac:7a:09
-Target IP Address| 10.106.84.254
-Target MAC Address| 00:00:00:00:00:00
-Destination MAC Address| ff:ff:ff:ff:ff:ff
-EtherType| 0x0806
+|Parameter               | Nilai             |   
+|------------------------|-------------------|
+|Protocol                | ARP               |
+|Opcode                  | Request (1)       |
+|Sender IP Address       | 10.106.84.59      |
+|Sender MAC Address      | 70:08:94:ac:7a:09 |
+|Target IP Address       | 10.106.84.254     |
+|Target MAC Address      | 00:00:00:00:00:00 |
+|Destination MAC Address | ff:ff:ff:ff:ff:ff |
+|EtherType               | 0x0806            |
 
 Pada kolom Info terlihat informasi:
 
