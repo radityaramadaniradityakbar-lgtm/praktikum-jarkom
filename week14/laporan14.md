@@ -359,7 +359,7 @@ Berdasarkan hasil pengamatan pada Frame 2166 diperoleh informasi:
 
 |Parameter   | Nilai      |        |
 |------------|------------|--------|
-|tatus Code  | Successful |(0x0000)|
+|Status Code | Successful |(0x0000)|
 |Association | ID         | 0x0005 |
 
 Analisis
